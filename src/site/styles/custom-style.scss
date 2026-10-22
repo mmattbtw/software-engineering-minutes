@@ -1,13 +1,9 @@
 body {
     /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+      Custom styling for the Software Engineering Minutes garden.
+      Uses the Atom theme (light) with the same green accent as docs.forestry.md.
    ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    --text-accent: #4b7a43;
+    --text-accent-hover: #3c6336;
+    --dg-graph-node-color: #4b7a43;
 }
