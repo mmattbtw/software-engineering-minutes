@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-home: true
-tags: gardenEntry
+{"dg-publish":true,"permalink":"/software-engineering/minutes/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
+
 
 # 10/06/2026
 Members Present: Matt, Jack, Hamza, Jesse, Zheer
