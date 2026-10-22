@@ -1,9 +1,22 @@
-body {
+body,
+body.theme-light,
+body.theme-dark {
     /***
       Custom styling for the Software Engineering Minutes garden.
-      Uses the Atom theme (light) with the same green accent as docs.forestry.md.
+      Atom light theme with the same green accent as docs.forestry.md.
    ***/
     --text-accent: #4b7a43;
     --text-accent-hover: #3c6336;
     --dg-graph-node-color: #4b7a43;
+
+    /* The site name is text, not a logo, so keep it compact. */
+    --dg-filetree-title-size: 20px;
+}
+
+/* Keep the site title dark like the docs wordmark instead of accent-colored. */
+.filetree-sidebar h1,
+.navbar h1 {
+    color: var(--text-normal);
+    letter-spacing: -0.02em;
+    font-weight: 700;
 }
