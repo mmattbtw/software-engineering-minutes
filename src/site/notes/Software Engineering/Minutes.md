@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 dg-home: true
+tags: gardenEntry
 ---
 
 # 10/06/2026
