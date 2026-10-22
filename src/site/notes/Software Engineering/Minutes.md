@@ -18,7 +18,7 @@ Members Present: Matt, Jesse, Jack, Zheer, Hamza
 - Discussed new stuff like Desktop Notifications and UI Sounds
 # 10/20/2026
 Members Present: Jack, Matt, Zheer, Jesse
-- Discussed new Inter font PR ([#67](https://github.com/mmattbtw/disquisition/pull/67))
+- Discussed new Inter font PR ([PR 67](https://github.com/mmattbtw/disquisition/pull/67))
 - Discussed Jack's interface sounds
 - Discussed Jack's new App Icons
 - Discussed the Server ("Guilds") architecture 
