@@ -33,3 +33,8 @@ The only problem is what if everybody's offline? You just create a new server or
 # 10/22/2026
 Members Present: Matt, Jesse, Cameron, Hamza, Zheer
 - Discussed server/communities architecture: https://www.tldraw.com/f/QburcEqnNyXhKIR1YFsx3?d=v-2262.-1241.4694.3138.page
+# 10/27/2026
+Members Present: Matt, Jack, Cameron, Zheer, Hamza
+- Tested communities app
+- Talked about screenshare audio
+- Demo'd communities w/ Robert
