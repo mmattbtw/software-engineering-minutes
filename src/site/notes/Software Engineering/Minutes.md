@@ -38,3 +38,7 @@ Members Present: Matt, Jack, Cameron, Zheer, Hamza
 - Tested communities app
 - Talked about screenshare audio
 - Demo'd communities w/ Robert
+# 10/29/2026
+Members Present: Matt, Jack, Jesse, Hamza, Zheer
+- Get everyone to join the Disquisition community and use it instead of Zoom for the meeting.
+- Bug Bashing Breaking everything
