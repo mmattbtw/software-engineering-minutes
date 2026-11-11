@@ -42,3 +42,14 @@ Members Present: Matt, Jack, Cameron, Zheer, Hamza
 Members Present: Matt, Jack, Jesse, Hamza, Zheer
 - Get everyone to join the Disquisition community and use it instead of Zoom for the meeting.
 - Bug Bashing Breaking everything
+# 11/3/2026
+I was absent, so I don't have the information at this moment.
+# 11/5/2026
+Members Present: Matt, Jesse, Hamza, Zheer
+- Talk about project presentation
+- Talk about Project 3 diagrams
+# 11/10/2026
+Members Present: Matt, Jesse, Hamza, Zheer, Cameron, Jack
+- Discussing the final project presentation
+- Fixing bugs in the app
+- Grabbing icons
