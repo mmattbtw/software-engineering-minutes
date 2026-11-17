@@ -53,3 +53,6 @@ Members Present: Matt, Jesse, Hamza, Zheer, Cameron, Jack
 - Discussing the final project presentation
 - Fixing bugs in the app
 - Grabbing icons
+# 11/12/2026
+Members Present: Matt, Jack, Jesse, Hamza, Cameron, Zheer
+- Recording the demo video
