@@ -55,8 +55,8 @@ Members Present: Matt, Jesse, Hamza, Zheer, Cameron, Jack
 - Grabbing icons
 # 11/12/2026
 Members Present: Matt, Jack, Jesse, Hamza, Cameron, Zheer
-- Recording the demo video
+- Recording the demo video.
 # 11/17/2026
 Members Present: Matt, Jack, Zheer, Jesse, Hamza
-- Record pick ups
+- Record pick ups for the demo video.
 - Discuss Project 3 diagrams.
